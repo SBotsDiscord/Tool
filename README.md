@@ -11,3 +11,5 @@ Je me suis interéssé au developpement en 2021 et plus particulièrement aux bo
 - Music
 
 Vous pourrez bientot les ajouter sur vos serveurs !
+
+Je possède également un [site internet](https://toolsbot.ml) qui donne quelques informations sur les bots et le classement du bot Tool !
