@@ -17,7 +17,7 @@ Je possède également un [site internet](https://toolsbot.ml) qui donne quelque
 
 ## [S] Bots
 
- - Tool
+ - **Tool**
  - Radio
  - Music
 
