@@ -25,10 +25,7 @@ Vous pourrez bientot les ajouter sur vos serveurs !
 
 Pour inviter le bot sur vos serveurs:
 
-```bash
-  npm install my-project
-  cd my-project
-```
+
 
 
 ## Support
