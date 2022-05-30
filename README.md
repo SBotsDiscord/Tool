@@ -1,15 +1,36 @@
-# Tool[S]
+# Tools
 
-Je me présente, je suis Raph' (Raph'#0002) et je suis le créateur des Bots [[S]](https://discord.gg/YQyadMUxnu) !
+Je me présente, je suis Raph' (Raph'#0002) et je suis le créateur des Bots **[[S]](https://discord.gg/YQyadMUxnu)** !
 J'ai commencé le projet Tool[S] en Janvier 2022.
 
-Je me suis interéssé au developpement en 2021 et plus particulièrement aux bots Discord ! C'est seulement début 2022 que j'ai commencé le projet Tool[S]
+Je me suis interéssé au developpement en 2021 et plus particulièrement aux bots Discord ! C'est seulement début 2022 que j'ai commencé le projet Tool[S] !
 
-[S] compte plusieurs bots:
-- Tool
-- Radio
-- Music
+
+Je possède également un [site internet](https://toolsbot.ml) qui donne quelques informations sur les bots et le classement du bot Tool !
+
+
+![Logo](https://cdn.discordapp.com/attachments/937806190921015296/980723406012055572/b.png)
+
+
+
+## [S] Bots
+
+ - Tool
+ - Radio
+ - Music
 
 Vous pourrez bientot les ajouter sur vos serveurs !
 
-Je possède également un [site internet](https://toolsbot.ml) qui donne quelques informations sur les bots et le classement du bot Tool !
+## Installation
+
+Pour inviter le bot sur vos serveurs:
+
+```bash
+  npm install my-project
+  cd my-project
+```
+
+
+## Support
+
+Si vous avez besoin d'aide veuillez rejoindre le serveur discord de support: https://discord.gg/YQyadMUxnu
